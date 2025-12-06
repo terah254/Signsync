@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SignSync",
+  "description": "A multimodal real-time sign language translator using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
